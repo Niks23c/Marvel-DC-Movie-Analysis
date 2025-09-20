@@ -1,4 +1,3 @@
-# Marvel vs DC-Movie-Analysis
 # Marvel vs DC Movie Analysis 🎬⚡  
 
 ## 📌 Project Overview  
@@ -57,18 +56,8 @@ Performed in **Google Colab** with Pandas.
 - Removed unnecessary rows (phase headers).  
 - Ensured consistent date formats in `Release_Date`.  
 
-👉 At this stage, we had a **unified dataset of both universes**, ready for analysis.  
+👉 At this stage, had a **unified dataset of both universes**, ready for analysis.  
 
----
-
-## 🗄️ Step 3: SQL Analysis  
-Planned analysis includes:  
-- Highest-grossing movies (MCU vs DC).  
-- Average Rotten Tomatoes scores by franchise.  
-- Correlation between budget and box office.  
-- Ranking by awards and nominations (to be merged).  
-
-Queries will be stored in the `sql/` folder.  
 
 ---
 
