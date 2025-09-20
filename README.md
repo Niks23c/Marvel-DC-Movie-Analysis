@@ -6,7 +6,6 @@ This project is an **end-to-end data analysis pipeline** comparing the Marvel Ci
 It demonstrates skills in:  
 - **Web Scraping** (Requests)  
 - **Data Cleaning & Transformation** (Pandas)  
-- **SQL Querying** for structured analysis  
 - **Dashboard Building** in Power BI  
 
 The goal is to uncover insights on **box office trends, budgets, ratings, and awards** between MCU and DC movies.  
@@ -61,14 +60,15 @@ Performed in **Google Colab** with Pandas.
 
 ---
 
-## 📊 Step 4: Power BI Dashboard  
+## 📊 Step 3: Power BI Dashboard  
 Final step will be to create an **interactive dashboard**:  
-- KPIs: Avg Budget, Avg Box Office, Avg Ratings (MCU vs DC)  
-- Trends: Release timelines with box office success  
+- KPIs:  sum of Box Office, Avg Ratings (MCU vs DC), Awards Won
+- Trends: Release timelines with box office success vs Budget
+- Trends: release time line with awrds won vs Nominated
 - Comparison: Top 5 grossing movies in each franchise  
-- Awards impact on revenue  
+- Awards impact on revenue  co-relation
 
-Dashboard files (`.pbix`) + screenshots will be stored in the `powerbi/` folder.  
+- screenshots will be stored in the `powerbi/` folder.  
 
 ---
 
