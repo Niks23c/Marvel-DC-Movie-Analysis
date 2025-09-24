@@ -1,5 +1,13 @@
 # Marvel vs DC Movie Analysis 🎬⚡  
 
+## 📊 Dashboard Preview
+
+![Dashboard](data/videomcdc.mp4)
+
+Additional screenshots:
+- ![](data/5.jpg)
+
+
 ## 📌 Project Overview  
 This project is an **end-to-end data analysis pipeline** comparing the Marvel Cinematic Universe (MCU) and DC Extended Universe (DCEU) movies.  
 
