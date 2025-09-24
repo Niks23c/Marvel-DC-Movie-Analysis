@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](data/videomcdc.mp4)
+![](data/videomcdc.mp4)
 
 Additional screenshots:
 - ![](data/5.jpg)
