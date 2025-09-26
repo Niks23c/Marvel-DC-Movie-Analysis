@@ -5,7 +5,7 @@
 - ![](data/videomcdc.mp4)
 
 Additional screenshots:
-- ![](data/5.jpg)
+- ![](data/NewMCDC.JPG)
 
 
 ## 📌 Project Overview  
